@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_section">
+    <title>Steps</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Found on the bottom left side of the window under the “+Section” button of the OneNote app</cmd>
+            </step>
+            <step>
+                <cmd>If you don’t see this button, go to “Show Notebooks” on the Navigation bar</cmd>
+            </step>
+            <step>
+                <cmd>When the new section appears, create a new title for the section</cmd>
+            </step>
+            <step>
+                <cmd>Press enter to finalize your section title</cmd>
+            </step>
+            <step>
+                <cmd>Now that the section is created, you can begin creating content by placing your cursor onto the page </cmd>
+            </step>
+            <step>
+                <cmd>You can then rearrange the order of your sections by selecting the titles and moving them </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

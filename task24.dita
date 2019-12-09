@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_selectOrType">
+    <title>Steps</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>To select an object, simply click on the object within the note page.</cmd>
+            </step>
+            <step>
+                <cmd>To select multiple objects, click and drag your cursor to create a box that envelops all of the objects you want to select.</cmd>
+            </step>
+            <step>
+                <cmd>To type text, click anywhere on the note page and begin typing.</cmd>
+            </step>
+            <step>
+                <note>The Select Objects or Type Text tool is a default setting in OneNote. However, it can be switched to a different tool in the Draw tab.</note>
+                <cmd>To reselect the Select Objects or Type Text tool, click on the Draw tab, then click on the icon for Select Objects or Type Text on the far left side of navigation (the icon with a mouse cursor, letter A, and text cursor in it).</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

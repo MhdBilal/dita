@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_table">
+    <title>Tables</title>
+    <conbody>
+        <p>This section will explain how to insert a table in OneNote.</p>
+        <image href="images/10.jpg" placement="break"><alt>Insert Tables</alt></image>
+    </conbody>
+    <related-links>
+        <link href="glossary.dita"/>
+    </related-links>
+</concept>

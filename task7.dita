@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_draw">
+    <title>Steps</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Click on "Draw" in the top left navigation of OneNote.</cmd>
+            </step>
+            <step>
+                <cmd>Select the "Shapes" option.</cmd>
+            </step>
+            <step>
+                <cmd>Choose a shape you wish to draw.</cmd>
+            </step>
+            <step>
+                <cmd>Click and drag your cursor to increase or decrease the size of the shape.</cmd>
+            </step>
+            <step>
+                <cmd>Release the mouse when the desired size has been reached.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

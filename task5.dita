@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_clipboard">
+    <title>Steps</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Find the icon of a clipboard on the far left side of OneNote’s Home tab.</cmd>
+            </step>
+            <step>
+                <cmd>Click on the Clipboard to open a dropdown menu that includes Cut, Copy, and Paste.</cmd>
+                
+                <info>Note: You can also access the Clipboard options by pressing Control + Click anywhere on the note page.</info>
+            </step>
+            <step>
+                <cmd>To delete an object, click on it then use the “Cut” option from the clipboard. Alternatively, you can cut content by pressing Command + X.</cmd>
+            </step>
+            <step>
+                <cmd>To copy an object, click on it then use the “Copy” option from the clipboard. Alternatively, you can copy content by pressing Command + C.</cmd>
+            </step>
+            <step>
+                <cmd>To paste an object, first copy the object in question, then use the “Paste” option from the clipboard. Alternatively, you can paste content by pressing Command + V.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

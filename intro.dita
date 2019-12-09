@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_hym_prp_zjb">
+    <title>A Guide for OneNote</title>
+    <shortdesc>Microsoft OneNote is a program that allows users to gather various types of information such as notes, drawings, audio and pictures.
+        This guide covers many important tasks that can be completed in Microsoft OneNote</shortdesc>
+    <conbody>
+        <p>Microsoft OneNote is simple to install. Click <xref
+                href="https://www.onenote.com/download" format="html" scope="external">here</xref>
+            to be redirected to the download page. Follow the on-screen instruction to complete
+            download. To learn how to complete a specific task in OneNote, simply click on the task
+            topics in the table below.</p>
+        <simpletable relcolwidth="1.0* 3.63*" id="simpletable_xsr_31q_zjb">
+            <sthead>
+                <stentry>INDEX</stentry>
+                <stentry>TOPICS</stentry>
+            </sthead>
+            <strow>
+                <stentry>1.</stentry>
+                <stentry><xref href="concept1.dita">Share a Link</xref></stentry>
+            </strow>
+            <strow>
+                <stentry>2. </stentry>
+                <stentry><xref href="concept2.dita">Enter Fullscreen</xref></stentry>
+            </strow>
+            <strow>
+                <stentry>3.</stentry>
+                <stentry><xref href="concept3.dita">Print a Document</xref></stentry>
+            </strow>
+            <strow>
+                <stentry>4.</stentry>
+                <stentry><xref href="concept4.dita">Undo and Redo Edits</xref></stentry>
+            </strow>
+            <strow>
+                <stentry>5.</stentry>
+                <stentry><xref href="concept5.dita">Using the Clipboard</xref></stentry>
+            </strow>
+            <strow>
+                <stentry>6.</stentry>
+                <stentry><xref href="concept6.dita">Adding Symbols</xref></stentry>
+            </strow>
+            <strow>
+                <stentry>7.</stentry>
+                <stentry><xref href="concept7.dita">Adding Shapes</xref></stentry>
+            </strow>
+            <strow>
+                <stentry>8.</stentry>
+                <stentry><xref href="concept8.dita">Converting Ink to Text</xref></stentry>
+            </strow>
+            <strow>
+                <stentry>9.</stentry>
+                <stentry><xref href="concept9.dita">Working with Pens</xref></stentry>
+            </strow>
+            <strow>
+                <stentry>10.</stentry>
+                <stentry><xref href="concept10.dita">Inserting Tables</xref></stentry>
+            </strow>
+            <strow>
+                <stentry>11.</stentry>
+                <stentry><xref href="concept11.dita">Working with Notebooks</xref></stentry>
+            </strow>
+            <strow>
+                <stentry>12.</stentry>
+                <stentry><xref href="concept12.dita">Working with Pages</xref></stentry>
+            </strow>
+            <strow>
+                <stentry>13.</stentry>
+                <stentry><xref href="concept13.dita">Working with Sections</xref></stentry>
+            </strow>
+            <strow>
+                <stentry>14.</stentry>
+                <stentry><xref href="concept14.dita">Searching in OneNote</xref></stentry>
+            </strow>
+            <strow>
+                <stentry>15.</stentry>
+                <stentry><xref href="concept15.dita">Adding Audio Files</xref></stentry>
+            </strow>
+            <strow>
+                <stentry>16.</stentry>
+                <stentry><xref href="concept16.dita">Working with Tables</xref></stentry>
+            </strow>
+            <strow>
+                <stentry>17.</stentry>
+                <stentry><xref href="concept17.dita">Adding Files and Printouts</xref></stentry>
+            </strow>
+            <strow>
+                <stentry>18.</stentry>
+                <stentry><xref href="concept18.dita">Meetings</xref></stentry>
+            </strow>
+            <strow>
+                <stentry>19.</stentry>
+                <stentry><xref href="concept19.dita">Adding Stickers</xref></stentry>
+            </strow>
+            <strow>
+                <stentry>20.</stentry>
+                <stentry><xref href="concept20.dita">Working with Mathematics</xref></stentry>
+            </strow>
+            <strow>
+                <stentry>21.</stentry>
+                <stentry><xref href="concept21.dita">Drawing Notes</xref></stentry>
+            </strow>
+            <strow>
+                <stentry>22.</stentry>
+                <stentry><xref href="concept22.dita">Clipping Content</xref></stentry>
+            </strow>
+            <strow>
+                <stentry>23.</stentry>
+                <stentry><xref href="concept23.dita">Adding Date and Time</xref></stentry>
+            </strow>
+            <strow>
+                <stentry>24.</stentry>
+                <stentry><xref href="concept24.dita">Select/Type Objects</xref></stentry>
+            </strow>
+            <strow>
+                <stentry>25.</stentry>
+                <stentry><xref href="concept25.dita">Immersive Reader</xref></stentry>
+            </strow>
+            <strow>
+                <stentry>26.</stentry>
+                <stentry><xref href="concept26.dita">Help</xref></stentry>
+            </strow>
+            <strow>
+                <stentry>27.</stentry>
+                <stentry><xref href="concept27.dita">Translate</xref></stentry>
+            </strow>
+            <strow>
+                <stentry>28.</stentry>
+                <stentry><xref href="concept28.dita">Zoom</xref></stentry>
+            </strow>
+            <strow>
+                <stentry>29.</stentry>
+                <stentry><xref href="concept29.dita">Rule Lines</xref></stentry>
+            </strow>
+            <strow>
+                <stentry>30.</stentry>
+                <stentry><xref href="concept30.dita">Replaying Edits</xref></stentry>
+            </strow>
+        </simpletable>
+    </conbody>
+    
+</concept>

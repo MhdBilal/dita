@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_sections">
+    <title>Add Sections</title>
+    <conbody>
+        <p>This section will explain how to add sections in OneNote.</p>
+        <image href="images/13.jpg" placement="break"><alt>Add Section Button</alt></image>
+    </conbody>
+    <related-links>
+        <link href="concept14.dita"/>
+        <link href="glossary.dita"/>
+    </related-links>
+</concept>

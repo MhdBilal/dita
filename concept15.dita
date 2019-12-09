@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_audio">
+    <title>Audio</title>
+    <conbody>
+        <p>This section will explain how to add audio in OneNote pages.</p>
+        <image href="images/15.jpg" placement="break"><alt>Add Audio Button</alt></image>
+    </conbody>
+    <related-links>
+        <link href="glossary.dita"/>
+    </related-links>
+</concept>

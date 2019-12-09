@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_shapes">
+    <title>Creating Shapes</title>
+    <conbody>
+        <p>This section will explain how to create shapes in OneNote.</p>
+        <image href="images/7.jpg" placement="break"><alt>Create Shapes</alt></image>
+    </conbody>
+    <related-links>
+        <link href="concept6.dita"/>
+        <link href="glossary.dita"/>
+    </related-links>
+</concept>

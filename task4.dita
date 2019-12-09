@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_undoredo">
+    <title>Steps</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Find the arrows forming semi-circles on the far left side of OneNote’s Home tab.</cmd>
+            </step>
+            <step>
+                <cmd>Click on the arrow turning counterclockwise to Undo an action.</cmd>
+            </step>
+            <step>
+                <cmd>Continue clicking on the Undo arrow to undo more of your previous actions, starting with the most recent actions first.</cmd>
+            </step>
+            <step>
+                <cmd>Click on the arrow turning clockwise to Redo an action you have undone.</cmd>
+            </step>
+            <step><cmd>Continue clicking on the Redo arrow to redo more of your undone actions, starting with the most recently undone actions first.</cmd>
+                <info>Note: If you undo any number of actions and then do a new action, all undone actions will become permanent, and cannot be redone.</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

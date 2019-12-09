@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_fullscreen">
+    <title>Steps</title>
+    <taskbody>
+        <steps>
+            <step>
+                <note type="tip">The Full Screen icon will always be in the top right corner of the window, as it does not belong to any specific tab.</note>
+                <cmd>Click on the diagonal double-sided arrow in the top right corner of OneNote to open Full Screen mode.</cmd>       
+            </step>
+            <step>
+                <cmd>When in Full Screen mode, the Full Screen icon changes to the Exit Full Screen icon. In the top right corner of the screen, click on the icon of four arrows pointing inwards to exit Full Screen mode.</cmd>
+            </step>
+            <step>
+                <cmd>OneNote has a quick command for Full Screen. Press F11 to toggle Full Screen on or off.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_notebooks">
+    <title>Notebooks</title>
+    <conbody>
+        <p>This section will explain how to use the notebook function in OneNote.</p>
+        <image href="images/11.jpg" placement="break"><alt>Notebooks Menu</alt></image>
+    </conbody>
+    <related-links>
+        <link href="concept12.dita"/>
+        <link href="glossary.dita"/>
+    </related-links>
+</concept>

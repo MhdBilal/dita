@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_help">
+    <title>Steps</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Click on “Help” in the top navigation of OneNote.</cmd>
+            </step>
+            <step>
+                <cmd>In the Help menu, click on the Help icon, which has a question mark beside it.</cmd>
+            </step>
+            <step>
+                <cmd>A Support window should appear, Type in its search bar keywords that relate to the problem you are having (one keyword may be enough). Then press Enter.</cmd>
+            </step>
+            <step>
+                <cmd>The Support window will open a number of links related to your keywords. Click on the link most related to your trouble to see more information.</cmd>
+            </step>
+            <step>
+                <cmd>In a link page, click on “Read article in browser” at the bottom of the page to open the link in an internet browser. Click on the arrow icon beside the search bar at the top of the page to return to your search results.</cmd>
+            </step>
+            <step>
+                <cmd>To see OneNote tutorials, look up “tutorial” in the search bar, or click on the home icon beside the search bar to see links to several important tutorial options.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

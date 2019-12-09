@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_zoom">
+    <title>Steps to Zooming in or out</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Content can be enlarged or shrunk through using the Zoom function within One Note</cmd>
+            </step>
+            <step>
+                <cmd>Go to the View tab at the top of the screen </cmd>
+            </step>
+            <step>
+                <cmd> Select the magnifying glass icon with a plus sign inside to zoom in to the page</cmd>
+            </step>
+            <step>
+                <cmd>Select the magnifying glass icon with a minus sign inside to zoom out of the page</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

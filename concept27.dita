@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_translate">
+    <title>Translate</title>
+    <conbody>
+        <p>This section will explain how to translate text in OneNote.</p>
+    </conbody>
+    <related-links>
+        <link href="glossary.dita"/>
+    </related-links>
+</concept>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_print">
+    <title>Steps</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Click on "..." icon in the top right corner of OneNote to access the Print button. Click on “Print” to open the Print menu.</cmd>
+            </step>
+            <step>
+                <cmd>On the left side of the Print menu, take note of the current printer setting. If you wish to use a different printer, click on the printer name and choose a new printer from the dropdown menu.</cmd>
+            </step>
+            <step>
+                <cmd>Check and edit the settings for the number of copies, the page orientation, color mode, and scaling as you see fit.</cmd>
+            </step>
+            <step>
+                <cmd>Click on “Pages” to select if you wish to print the current page, section, section group, or entire notebook that you are in.</cmd>
+            </step>
+            <step>
+            <cmd>Click on “More settings” to adjust duplex printing, collation, paper size, paper type, paper tray, and stapling settings as you see fit. Confirm choices with the “OK” button.</cmd>
+            </step>
+            <step>
+            <cmd>Press “Print” to print your page(s).</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_print">
+    <title>Print</title>
+    <conbody>
+        <p>This section will explain how to Print in OneNote.</p>
+        <image href="images/3.jpg" placement="break"><alt>Print Button</alt></image>
+    </conbody>
+    <related-links>
+        <link href="concept17.dita"/>
+        <link href="glossary.dita"/>
+    </related-links>
+</concept>

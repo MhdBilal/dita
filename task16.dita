@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_">
+    <title>Steps</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Click your cursor on the page where you want to place a table</cmd>
+            </step>
+            <step>
+                <cmd>Click on the cell and enter your content</cmd>
+            </step>
+            <step>
+                <cmd>Click tab to move between columns and cells</cmd>
+            </step>
+            <step>
+                <cmd>Click on “Table” to make any additional changes to the table</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_meeting">
+    <title>Meeting Details</title>
+    <conbody>
+        <p>This section will explain how to use meeting details in OneNote.</p>
+        <image href="images/18.jpg" placement="break"><alt>Print Button</alt></image>
+    </conbody>
+    <related-links>
+        <link href="glossary.dita"/>
+    </related-links>
+</concept>

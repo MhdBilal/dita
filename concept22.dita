@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_clipping">
+    <title>Insert a Screen Clipping</title>
+    <conbody>
+        <p>This section will explain how to insert a screen clipping into OneNote</p>
+    </conbody>
+    <related-links>
+        <link href="concept28.dita"/>
+        <link href="glossary.dita"/>
+    </related-links>
+</concept>

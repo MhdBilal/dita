@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="tasks">
+    <title>OneNote</title>
+  
+    <topicref href="intro.dita">
+    </topicref>
+    <topicref href="concept1.dita">
+        <topicref href="task1.dita"/>
+    </topicref>
+    <topicref href="concept2.dita">
+        <topicref href="task2.dita"/>
+    </topicref>
+    <topicref href="concept3.dita">
+        <topicref href="task3.dita"/>
+    </topicref>
+    <topicref href="concept4.dita">
+        <topicref href="task4.dita"/>
+    </topicref>
+    <topicref href="concept5.dita">
+        <topicref href="task5.dita"/>
+    </topicref>
+    <topicref href="concept6.dita">
+        <topicref href="task6.dita"/>
+    </topicref>
+    <topicref href="concept7.dita">
+        <topicref href="task7.dita"/>
+    </topicref>
+    <topicref href="concept8.dita">
+        <topicref href="task8.dita"/>
+    </topicref>
+    <topicref href="concept9.dita">
+        <topicref href="task9.dita"/>
+    </topicref>
+    <topicref href="concept10.dita">
+        <topicref href="task10.dita"/>
+    </topicref>
+    <topicref href="concept11.dita">
+        <topicref href="task11.dita"/>
+    </topicref>
+    <topicref href="concept12.dita">
+        <topicref href="task12.dita"/>
+    </topicref>
+    <topicref href="concept13.dita">
+        <topicref href="task13.dita"/>
+    </topicref>
+    <topicref href="concept14.dita">
+        <topicref href="task14.dita"/>
+    </topicref>
+    <topicref href="concept15.dita">
+        <topicref href="task15.dita"/>
+    </topicref>
+    <topicref href="concept16.dita">
+        <topicref href="task16.dita"/>
+    </topicref>
+    <topicref href="concept17.dita">
+        <topicref href="task17.dita"/>
+    </topicref>
+    <topicref href="concept18.dita">
+        <topicref href="task18.dita"/>
+    </topicref>
+    <topicref href="concept19.dita">
+        <topicref href="task19.dita"/>
+    </topicref>  
+    <topicref href="concept20.dita">
+        <topicref href="task20.dita"/>
+    </topicref>  
+    <topicref href="concept21.dita">
+        <topicref href="task21.dita"/>
+    </topicref> 
+    <topicref href="concept22.dita">
+        <topicref href="task22.dita"/>
+    </topicref> 
+    <topicref href="concept23.dita">
+        <topicref href="task23.dita"/>
+    </topicref> 
+    <topicref href="concept24.dita">
+        <topicref href="task24.dita"/>
+    </topicref> 
+    <topicref href="concept25.dita">
+        <topicref href="task25.dita"/>
+    </topicref> 
+    <topicref href="concept26.dita">
+        <topicref href="task26.dita"/>
+    </topicref> 
+    <topicref href="concept27.dita">
+        <topicref href="task27.dita"/>
+    </topicref> 
+    <topicref href="concept28.dita">
+        <topicref href="task28.dita"/>
+    </topicref> 
+    <topicref href="concept29.dita">
+        <topicref href="task29.dita"/>
+    </topicref> 
+    <topicref href="concept30.dita">
+        <topicref href="task30.dita"/>
+    </topicref> 
+    <topicref href="glossary.dita">
+    </topicref>
+</map>

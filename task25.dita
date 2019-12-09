@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_reader">
+    <title>Steps</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Click on "View" in the top navigation of OneNote.</cmd>
+            </step>
+            <step>
+                <cmd>Click on the Immersive Reader icon in the View menu to enter Immersive Reader mode (the icon is of a book and a speakerphone).</cmd>
+            </step>
+            <step>
+                <cmd>In Immersive Reader mode, click on the Play icon at the bottom of the screen to activate the text reader.</cmd>
+            </step>
+            <step>
+                <cmd>To change the text reader’s gender or speed, click on the Voice Settings icon at the bottom of the screen (beside the Play icon), then change the Voice Speed or Voice Selection options.</cmd>
+            </step>
+            <step>
+                <cmd>To access options for changing text size, spacing, font, and background color, click on the Text Preferences icon in the top right corner of the screen (the double-A icon).</cmd>
+            </step>
+            <step>
+                <cmd>To identify syllables or parts of speech in the text, click on the Grammar Options icon in the top right corner of the screen (the icon of text lines with a magic wand).</cmd>
+            </step>
+            <step>
+                <cmd>To access options for focusing on a set number of text lines, using a picture dictionary, or translating the page, click on the Reading Preferences icon in the top right corner of the screen (the open book icon).</cmd>
+            </step>
+            <step>
+                <cmd>To exit Immersive Reader mode, click on the Exit arrow in the top left corner of the screen.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

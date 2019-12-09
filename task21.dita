@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_share">
+    <title>Steps</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Open the “draw” window.</cmd>
+            </step>
+            <step>
+                <cmd>Select a pen color that you want to write with.</cmd>
+            </step>
+            <step>
+                <cmd>Click and drag to write/draw your notes.</cmd>
+                <substeps>
+                <substep><cmd>If you have a touchscreen computer with a stylus, you can write/draw directly on your screen.</cmd></substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>

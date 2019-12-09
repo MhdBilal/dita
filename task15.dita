@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_audio">
+    <title>Steps</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Click a location on the page where you want the audio file placed</cmd>
+                </step>
+                <step>
+                    <cmd>Next, click “Insert”, then “Audio” to open the audio function of OneNote.</cmd>
+                </step>
+                <step>
+                    <cmd>Recording will start immediately</cmd>
+                </step>
+                <step>
+                    <cmd>To stop the recording press the Stop button or Pause button</cmd>
+                </step>
+                <step>
+                    <cmd>You can skip forward or backward 15 seconds by pressing the corresponding buttons 
+                    </cmd>
+                </step>
+            </steps>
+    </taskbody>
+</task>

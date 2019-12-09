@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_">
+    <title>Steps</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>On  a page, select where you want the sticker to be placed</cmd>
+            </step>
+            <step>
+                <cmd>Go to the “Insert” tab, and select “Stickers”</cmd>
+            </step>
+            <step>
+                <cmd>Once the “Sticker’s” window opens on the right side of the page, select which sticker you want</cmd>
+            </step>
+            <step>
+                <cmd>The sticker will be placed on the page where you selected previously</cmd>
+            </step>
+            <step>
+                <cmd>You can select other sticker options by scrolling down the left side of the “Stickers” window</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

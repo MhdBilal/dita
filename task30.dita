@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_replay">
+    <title>Steps to using Replay</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Go to the View tab and select the Replay icon on the far right of the screen</cmd>
+            </step>
+            <step>
+                <cmd> Select the Replay icon and a menu will appear asking you to select an area on the page you wish to replay</cmd>
+            </step>
+            <step>
+                <cmd> Once selected the menu will change where you can rewind on the area of the page of content you previously selected</cmd>
+            </step>
+            <step>
+                <cmd>To exit replay mode, press the x button sitting at the top right of the page you are on</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

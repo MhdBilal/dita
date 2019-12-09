@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_share">
+    <title>Steps</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Click on the "Share" button in the top right corner of OneNote.</cmd>
+            </step>
+            <step>
+                <cmd>To decide who can or cannot use the link that you share to access your page, click on “Who would you like this link to work for?”.</cmd>
+                <substeps>
+                
+                    <substep><cmd>Choose “Anyone with the link” to allow anyone who clicks on your link to access your page. With this option, you may add a password or an expiration date for the link if you desire.</cmd></substep>
+                
+                    <substep><cmd>Choose “People in [your registered organization] with the link” to allow your page link to work only for people who are registered to the same organization as you are on OneNote.</cmd></substep>
+                
+                    <substep><cmd>Choose “People with existing access” to deny any new individuals from opening your link (only to be used after your link has been accessed by everyone you want it to be accessed by).</cmd></substep>
+                    
+                    <substep><cmd>Choose “Specific people” to only let your link be opened by people you specifically give access to.</cmd></substep>
+                    
+                    <substep><cmd>Click the “Allow editing” checkbox to allow people with access to your page the ability to edit it.</cmd></substep>
+                    
+                    <substep><cmd>Click “Apply” to finalize your settings.</cmd></substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>To share your link with a specific person, fill in the “Enter a name or email address” line, then click the “Send” button.</cmd>
+            </step>
+            <step>
+                <cmd>Click the “Copy Link” button to copy your page link, so you can paste it in a message, app, or webpage.</cmd>
+            </step>
+            <step>
+                <cmd>To post your link in a specific app, click the “Send Copy of Page” button, then choose the app you want to post your link in.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

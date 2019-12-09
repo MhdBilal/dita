@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_notebooks">
+    <title>Steps</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Found in the  Navigation sidebar, select the “Show Notebooks” button  of OneNote.</cmd>
+            </step>
+            <step>
+                <cmd>Under the “Show Notebooks” button, select the notebook you wish to use. In case you only have one notebook,</cmd>
+                <substeps>
+                    <substep><cmd>Select “More Notebooks”.</cmd></substep>
+                    <substep><cmd>Select the additional notebook by clicking its name.</cmd></substep>
+                </substeps>
+            </step>
+          </steps>
+    </taskbody>
+</task>

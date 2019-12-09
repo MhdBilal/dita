@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_math">
+    <title>Turning Written Charactars into a Math Problem</title>
+    <conbody>
+        <p>This section will explain how to write a math equation with the pen tool and then
+            turn into a text equation with the ability to be solved by OneNote</p>
+        <image href="images/20.jpg" placement="break"><alt>Mathematics Options</alt></image>
+    </conbody>
+    <related-links>
+        <link href="concept9.dita"/>
+        <link href="glossary.dita"/>
+    </related-links>
+</concept>

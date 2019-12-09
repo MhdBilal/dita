@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_share">
+    <title>Steps</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Open the “Insert” window </cmd>
+            </step>
+            <step>
+                <cmd>Click “Date and Time” and the date and time will be automatically inserted onto the page.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

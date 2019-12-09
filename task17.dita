@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_">
+    <title>Steps</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Click where you want to insert a file on the page</cmd>
+            </step>
+            <step>
+                <cmd>Click the “Insert” tab and select the “File” icon</cmd>
+            </step>
+            <step>
+                <cmd> The “Files” icon will access your documents and related files on your computer</cmd>
+            </step>
+            <step>
+                <cmd>Once you select the file, it will prompt you to choose whether to Upload to Onedrive or insert attachment</cmd>
+            </step>
+            <step>
+                <cmd>Choose “Insert Attachment” and the file will be placed onto the page where you set your cursor </cmd>
+            </step>
+            <step>
+                <cmd> Selecting the inserted file on the page will open the original document </cmd>
+            </step>
+            <step>
+                <cmd>If you move the notebook the inserted file will move along with notebook</cmd>
+                </step>
+        </steps>
+    </taskbody>
+</task>

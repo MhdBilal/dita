@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_selectOrType">
+    <title>Select Objects or Type Text</title>
+    <conbody>
+        <p>This section will explain how to Select Objects or Type Text in OneNote.</p>
+    </conbody>
+    <related-links>
+        <link href="concept8.dita"/>
+        <link href="glossary.dita"/>
+    </related-links>
+</concept>

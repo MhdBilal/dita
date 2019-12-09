@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_search">
+    <title>Steps</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Found in the Navigation sidebar, the search bar is located on the far right of the section tabs of OneNote.</cmd>
+            </step>
+            <step>
+                <cmd>When you place your cursor on the Search bar, a drop down menu will appear</cmd>
+            </step>
+            <step>
+                <cmd> The “recent searches” bar will be visible</cmd>
+            </step>
+            <step>
+                <cmd>Below the recent searches bar you will see the All Notebooks tab</cmd>
+            </step>
+            <step>
+                <cmd>Type in keywords and phrases to search you available notes </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

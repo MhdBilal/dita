@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_share">
+    <title>Steps</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Open the “Insert” window.</cmd>
+            </step>
+            <step>
+                <cmd>Click on “Screen Clipping”. The OneNote window will close and you can decide what content you want to insert into OneNote.</cmd>
+            </step>
+            <step>
+                <cmd>You can click and drag your cursor to select a rectangle of content to insert into OneNote. When you release your click, OneNote will open back up with your content inserted.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

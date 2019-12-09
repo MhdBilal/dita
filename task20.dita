@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_t23_b1k_5jb">
+    <title>Steps</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Click on "Draw" in the top left navigation of OneNote</cmd>
+            </step>
+            <step>
+                <cmd>Select a pen to write with</cmd>
+            </step>
+            <step>
+                <cmd>Write out a math problem that you wish to solve</cmd>
+            </step>
+            <step>
+                <cmd>Select the select tool a few spots left of the eraser (dotted circle with a
+                    plus mark)</cmd>
+            </step>
+            <step>
+                <cmd>With the select tool selected, draw a circle around the drawn math
+                    problem</cmd>
+            </step>
+            <step>
+                <cmd>Click the math button on the far right side of the draw toolbar</cmd>
+            </step>
+            <step>
+                <cmd>Click on "Select an action" and choose what you'd like to do with the math
+                    problem, and your answer will appear</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_table">
+    <title>steps</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Click on "Insert" in the top navigation bar of OneNote.</cmd>
+            </step>
+            <step>
+                <cmd>Click on table and select the number of cells you would like for the rows and columns.</cmd>
+            </step>
+            <step>
+                <cmd>Use the outer edges to move the table around to the desired location.</cmd>
+            </step>
+            <step>
+                <cmd>Resize the cells by hovering the cursor over the cell boundary and dragging them.</cmd>
+                
+                <info>Note: Tables can be added within cells by following the above mentioned steps again.</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

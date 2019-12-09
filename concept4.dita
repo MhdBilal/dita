@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_undoredo">
+    <title>Undo and Redo</title>
+    <conbody>
+        <p>This section will explain how to Undo and Redo actions in OneNote.</p>
+        <image href="images/4.jpg" placement="break"><alt>Undo and Redo Buttons</alt></image>
+    </conbody>
+    <related-links>
+        <link href="concept30.dita"/>
+        <link href="glossary.dita"/>
+    </related-links>
+</concept>

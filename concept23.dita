@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_timedate">
+    <title>Insert Date and Time</title>
+    <conbody>
+        <p>This section will explain how to insert the date and time in OneNote.</p>
+    </conbody>
+    <related-links>
+        <link href="concept14.dita"/>
+        <link href="glossary.dita"/>
+    </related-links>
+</concept>

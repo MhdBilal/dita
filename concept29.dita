@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_lines">
+    <title>Rule Lines</title>
+    <conbody>
+        <p>This section will explain how to use the Rule Lines in OneNote.</p>
+    </conbody>
+    <related-links>
+        <link href="glossary.dita"/>
+    </related-links>
+</concept>

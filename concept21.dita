@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_drawnotes">
+    <title>Drawing Notes in OneNote</title>
+    <conbody>
+        <p>This section will explain how to draw notes in OneNote. This would be the most convenient if you have a touchscreen computer with a stylus.</p>
+        <image href="images/21.jpg" placement="break"><alt>Drawing Menu</alt></image>
+    </conbody>
+    <related-links>
+        <link href="concept20.dita"/>
+        <link href="glossary.dita"/>
+    </related-links>
+</concept>

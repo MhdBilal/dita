@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_addpages">
+    <title>Steps</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Click on "+Pages"  on the bottom left side of the window.</cmd>
+            </step>
+            <step>
+                <cmd>If you do not see this button go to the Navigation bar and select "Show Notebooks"</cmd>
+            </step>
+            <step>
+                <cmd>Once you’ve created a new page, you can create a title above the time stamp.</cmd>
+            </step>
+            <step>
+                <cmd>You can change the order of pages listed by selecting the titles and moving then along side the Navigation bar.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

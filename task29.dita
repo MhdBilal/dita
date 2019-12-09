@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_">
+    <title>Steps to using Rule Lines</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Go to the View tab and select the Rule Lines icon</cmd>
+            </step>
+            <step>
+                <cmd> A tab will appear with 4 rule line options and 4 grid line options  </cmd>
+            </step>
+            <step>
+                <cmd> The first rule line is narrow, the second is college, the third is standard, and the last is wide</cmd>
+            </step>
+            <step>
+                <cmd>Select a rule line and it will format the page. There is also a button at the bottom of the rule line tab that will make rule lines  a permanent feature for your pages</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
